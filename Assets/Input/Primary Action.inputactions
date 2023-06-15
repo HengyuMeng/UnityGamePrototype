@@ -1,0 +1,33 @@
+{
+    "name": "Primary Action",
+    "maps": [
+        {
+            "name": "GamePlay",
+            "id": "45104026-2dd8-4abf-b790-5a9216c50402",
+            "actions": [
+                {
+                    "name": "next object",
+                    "type": "Button",
+                    "id": "05f2658d-98b8-4cd4-b3c5-ec5fb7455d14",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "3a7d773c-4c6e-46de-b0c9-f6c863dbab23",
+                    "path": "*/{Submit}",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "next object",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
